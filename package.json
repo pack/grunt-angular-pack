@@ -31,5 +31,9 @@
     "grunt",
     "angular",
     "pack"
-  ]
+  ],
+  "scripts": {
+    "prepublish": "cake build"
+  },
+  "bin": { "grunt-angular-pack": "./bin/grunt-angular-pack" }
 }
