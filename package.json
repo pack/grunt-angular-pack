@@ -1,0 +1,35 @@
+{
+  "name": "grunt-angular-pack",
+  "description": "Grunt utilities for angular/coffeescript projects",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pack/grunt-angular-pack",
+  "author": {
+    "name": "Josh Toft",
+    "email": "josh@pack.io",
+    "url": "https://github.com/pack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pack/grunt-angular-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pack/grunt-angular-pack/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/pack/grunt-angular-pack/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "grunt": "~ 0.4.1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "grunt.js",
+    "gruntjs",
+    "grunt",
+    "angular",
+    "pack"
+  ]
+}
